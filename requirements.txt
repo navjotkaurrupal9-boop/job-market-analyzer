@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+matplotlib
+seaborn
+requests
+beautifulsoup4
+selenium
+schedule
+wordcloud
+openpyxl
+python-dotenv
